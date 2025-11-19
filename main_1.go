@@ -1,10 +1,10 @@
-package main
+/*package main
 
 import "fmt"
 
 var numerito int = 10 // Declaración y asignación de una variable global
 
-func main() {
+ func main() {
 	fmt.Println("Hello, World!")
 
 	numerito = 20 // Alternativa para reasignar el valor de una variable ya declarada
@@ -16,4 +16,4 @@ func main() {
 	fmt.Println("El valor de i es:", i)
 	fmt.Println("El valor de j es:", j)
 
-}
+} */
