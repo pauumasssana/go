@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -83,3 +83,4 @@ func main() {
 	fmt.Printf("El área del rectángulo es: %d\n", rect.area())
 	fmt.Printf("El ancho del rectángulo es: %d\n", rect.ancho)
 }
+*/
