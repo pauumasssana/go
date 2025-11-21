@@ -1,4 +1,4 @@
-package main
+/* package main
 
 import "fmt"
 
@@ -63,3 +63,4 @@ func main() {
 	rect := Rectangulo{ancho: 5, alto: 10}                       // Creación de una instancia de Rectangulo
 	fmt.Printf("El área del rectángulo es: %.2f\n", rect.Area()) // Llamada al método Area del tipo Rectangulo
 }
+*/
