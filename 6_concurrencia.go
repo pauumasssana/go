@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import (
 	"fmt"
@@ -57,7 +57,7 @@ func main() {
 			fmt.Printf("Numero recibido del canal2: %d\n", num)
 		}
 	*/
-
+	/*
 	//sync.RWMutex para evitar condiciones de carrera en acceso a variables compartidas
 	//Readers-Writers
 	contador := 0
@@ -95,3 +95,4 @@ func main() {
 
 	time.Sleep(30 * time.Second) // Espera para que todas las goroutines terminen
 }
+
